@@ -1,6 +1,6 @@
 # Exercício: Eight Numbers Problem
 ## O jogo dos 8 números
-NOME: [digite seu nome]
+NOME: Edson Fagner da Silva Cristovam
 
 Neste exercício, você irá explorar diferentes eestratégias para resolver o problema dos 8 números, utilizando estratégias de busca cega, informada e local. 
 
